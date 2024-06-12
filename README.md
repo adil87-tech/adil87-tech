@@ -16,7 +16,7 @@ Here are some of the projects I have worked on in the past:
 - Migrated large data warehouse from Oracle to Netezza platform 
 
 ### Cloud Computing
-GCP, Azure and AWS. I have practical knowledge of cloud technologies such as AWS(Amazon web services), Azure, and GCP(Google cloud platform). I've deployed applications on these cloud platforms, configured infrastructure services like s3, IAM, VM's,storage, etc. With observability and monitoring, I have experience with Prometheus, Kibana, Grafana where I've configured dashboards, setup data sources, and utilized various plugins to visualize data effectively. I have worked with Kubernetes such as minikube, GKE, microk8s, etc to deploy, manage, and scale containerized applications and extensively troubleshooted issues within clusters.
+GCP, Azure and AWS. I have practical knowledge of cloud technologies such as AWS(Amazon web services), Azure, and GCP(Google cloud platform). I've deployed applications on these cloud platforms, configured infrastructure services like S3,IAM,VM,storage, etc. With observability and monitoring, I have experience with Prometheus, Kibana, Grafana where I've configured dashboards, setup data sources, and utilized various plugins to visualize data effectively. I have worked with Kubernetes such as minikube, GKE, microk8s, etc to deploy, manage, and scale containerized applications and extensively troubleshooted issues within clusters.
 
 ### Databases
 I have experience with relational databsaes like MySQL, Postgres, Oracle, Netezza and NoSQL like Cassandra and MongoDB
@@ -36,5 +36,5 @@ Kuberenetes, Docker, Terraform, Prometheus, Linux, Webservices, etc.
 
 - 📫 How to reach me: Follow me on Github to stay up-to-date with my latest projects and contributions. I'm excited to connect with you and explore new oppurtunities in the world of cloud computing and beyond. I'm always looking to learn new technologies and collaborate with like-minded individuals.
 
-- Email: adilakram87@yahoo.com
+- Email: adilakram87@yahoo.com or adilakram772@gmail.com
 - Linkedin: https://linkedin.com/in/adilakram
